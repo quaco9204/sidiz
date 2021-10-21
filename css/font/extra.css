@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  src: url(NotoSansKR-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  src: url(NotoSansKR-Bold.woff) format('woff');
+}
+
+
+@font-face {
+	font-family: 'Centra No2';
+	font-weight: 400;
+	font-style: normal;
+	src: url(CentraNo2-Book.woff) format('woff');
+}
+
+
+@font-face {
+	font-family: 'Centra No2';
+	font-weight: 700;
+	font-style: normal;
+	src: url(CentraNo2-Bold.woff) format('woff');
+}
