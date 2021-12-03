@@ -146,13 +146,13 @@ body {
     border-right: 1px solid #bcbcbc;
 }
 
-.search-form {
+/* .search-form {
     position: relative;
     display: inline-block;
     width: 10px;
     height: 5px;
     background-color: green;
-}
+} */
 
 .search {}
 
